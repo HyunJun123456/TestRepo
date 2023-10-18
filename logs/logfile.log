@@ -1,0 +1,25 @@
+2023-10-11 19:41:24 869 [main] DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner - Identified candidate component class: file [C:\Users\Administrator\Desktop\MySpringFW\target\classes\myspring\customer\mapper\CustomerMapper.class]
+2023-10-11 19:41:25 074 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2023-10-11 19:43:09 952 [main] DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner - Identified candidate component class: file [C:\Users\Administrator\Desktop\MySpringFW\target\classes\myspring\customer\mapper\CustomerMapper.class]
+2023-10-11 19:43:10 141 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2023-10-11 19:43:10 302 [main] DEBUG org.mybatis.spring.SqlSessionUtils - Creating a new SqlSession
+2023-10-11 19:43:10 310 [main] DEBUG org.mybatis.spring.SqlSessionUtils - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71984c3] was not registered for synchronization because synchronization is not active
+2023-10-11 19:43:10 470 [main] DEBUG org.mybatis.spring.transaction.SpringManagedTransaction - JDBC Connection [HikariProxyConnection@424732838 wrapping org.mariadb.jdbc.Connection@47289387] will not be managed by Spring
+2023-10-11 19:43:10 476 [main] DEBUG CustomerMapper.fetchCustomerById - ==>  Preparing: select * from customer where id = ?
+2023-10-11 19:43:10 504 [main] DEBUG org.mybatis.spring.SqlSessionUtils - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71984c3]
+2023-10-11 19:43:41 132 [main] DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner - Identified candidate component class: file [C:\Users\Administrator\Desktop\MySpringFW\target\classes\myspring\customer\mapper\CustomerMapper.class]
+2023-10-11 19:43:41 319 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2023-10-11 19:43:41 484 [main] DEBUG org.mybatis.spring.SqlSessionUtils - Creating a new SqlSession
+2023-10-11 19:43:41 492 [main] DEBUG org.mybatis.spring.SqlSessionUtils - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71984c3] was not registered for synchronization because synchronization is not active
+2023-10-11 19:43:41 648 [main] DEBUG org.mybatis.spring.transaction.SpringManagedTransaction - JDBC Connection [HikariProxyConnection@424732838 wrapping org.mariadb.jdbc.Connection@47289387] will not be managed by Spring
+2023-10-11 19:43:41 655 [main] DEBUG CustomerMapper.fetchCustomerById - ==>  Preparing: select * from customer where id = ?
+2023-10-11 19:43:41 688 [main] DEBUG CustomerMapper.fetchCustomerById - ==> Parameters: 1(Integer)
+2023-10-11 19:43:41 710 [main] DEBUG CustomerMapper.fetchCustomerById - <==      Total: 1
+2023-10-11 19:43:41 719 [main] DEBUG org.mybatis.spring.SqlSessionUtils - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71984c3]
+2023-10-11 20:50:26 324 [main] DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner - Identified candidate component class: file [C:\Users\Administrator\Desktop\MySpringFW\target\classes\myspring\customer\mapper\CustomerMapper.class]
+2023-10-11 20:50:26 533 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2023-10-11 20:50:26 686 [main] DEBUG org.mybatis.spring.SqlSessionUtils - Creating a new SqlSession
+2023-10-11 20:50:26 694 [main] DEBUG org.mybatis.spring.SqlSessionUtils - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71984c3] was not registered for synchronization because synchronization is not active
+2023-10-11 20:50:26 696 [main] DEBUG org.mybatis.spring.SqlSessionUtils - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71984c3]
+2023-10-11 21:12:15 674 [main] DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner - Identified candidate component class: file [C:\Users\Administrator\Desktop\MySpringFW\target\classes\myspring\customer\mapper\CustomerMapper.class]
+2023-10-11 21:12:15 868 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
